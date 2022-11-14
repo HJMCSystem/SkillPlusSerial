@@ -1,2 +1,0 @@
-# SkillPlusSerial
-스킬
